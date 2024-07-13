@@ -24,12 +24,12 @@ I am passionate about software development and dedicated to continuously expandi
   </tr>
   <tr>
     
-        de German - Pre-Intermediate
+        DE German - Pre-Intermediate
         
   </tr>
   <tr>
     
-        cz Czech - Intermediate
+        CZ Czech - Intermediate
         
   </tr>
 </table>
