@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[![friendly coconut's GitHub stats](https://github-readme-stats.vercel.app/api?username=friendlycoconut)](https://github.com/friendlycoconut/github-readme-stats)
+
 <!--
 **friendlycoconut/friendlycoconut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
