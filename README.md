@@ -156,7 +156,7 @@ I am passionate about software development and dedicated to continuously expandi
 <br>
 
 <div align=center> 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=AE0000&random=true&width=435&lines=Cracking+IT+problems+with+the+FriendliestCoconut!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=AE0000&center=true&vCenter=true&multiline=true&random=true&width=700&lines=Cracking+IT+Problems+with+the+Friendliest+Coconut+Around!" alt="Typing SVG" />
 </div>
 
 <div align="center">
