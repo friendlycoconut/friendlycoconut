@@ -1,5 +1,9 @@
 ## Hi there, I am Friendly Coconut 👋
 
+<div align=center> 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=AE0000&center=true&vCenter=true&multiline=true&random=true&width=700&lines=Cracking+IT+Problems+with+the+Friendliest+Coconut+Around!" alt="Typing SVG" />
+</div>
+
 This Github profile contains my non-working, study and test projects. My project experience encompasses both collaborative team efforts and individual projects, where I have leveraged a diverse set of technologies including HTML5, CSS3, JavaScript, TypeScript, React.js, Next.js, Node.js, Python, and SQL.
 
 ### Skills and Expertise
@@ -155,9 +159,7 @@ I am passionate about software development and dedicated to continuously expandi
 </table>  
 <br>
 
-<div align=center> 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=AE0000&center=true&vCenter=true&multiline=true&random=true&width=700&lines=Cracking+IT+Problems+with+the+Friendliest+Coconut+Around!" alt="Typing SVG" />
-</div>
+
 
 <div align="center">
 <a href="https://u8views.com/github/friendlycoconut"><img src="https://u8views.com/api/v1/github/profiles/115661003/views/day-week-month-total-count.svg"></a>
