@@ -4,7 +4,11 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=AE0000&center=true&vCenter=true&multiline=true&random=true&width=700&lines=Cracking+IT+Problems+with+the+Friendliest+Coconut+Around!" alt="Typing SVG" />
 </div>
 
-This Github profile contains my non-working, study and test projects. My project experience encompasses both collaborative team efforts and individual projects, where I have leveraged a diverse set of technologies including HTML5, CSS3, JavaScript, TypeScript, React.js, Next.js, Node.js, Python, and SQL.
+This Github profile contains my non-working, study and test projects.
+
+My project experience encompasses both collaborative team efforts and individual projects, where I have leveraged a diverse set of technologies including HTML5, CSS3, JavaScript, TypeScript, Java, React.js, Node.js, Python, and SQL.
+
+
 
 ### Skills and Expertise
 - Frontend Development: Proficient in HTML5, CSS3, JavaScript, TypeScript, React.js, Vue.js, Angular.
