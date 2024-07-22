@@ -12,7 +12,7 @@ My project experience encompasses both collaborative team efforts and individual
 
 ### Skills and Expertise
 - Frontend Development: Proficient in HTML5, CSS3, JavaScript, TypeScript, React.js, Vue.js, Angular.
-- Backend Development: Skilled in Node.js and Python (Django) and Java (Spring Framework) for server-side development.
+- Backend Development: Skilled in Node.js (study projects/ Hackathons) and Python (Django) and Java (Spring Framework) for server-side development.
 - Database: Experience with SQL/ no-SQL for database management and querying.
 - Agile Methodologies: Well-versed in Agile and Scrum methodologies, ensuring efficient project management and delivery.
 I am passionate about software development and dedicated to continuously expanding my knowledge and skills in the field.
