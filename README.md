@@ -114,7 +114,7 @@ I am passionate about software development and dedicated to continuously expandi
                         <td align="center"><a href="https://www.mysql.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>
                         <br>MySQL</td>
                       <td align="center"><a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>
-                      <br>firebase</td>
+                      <br>Firebase</td>
                     </tr>
                     <tr align="center">
                         <td><a href="https://www.postgresql.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>
