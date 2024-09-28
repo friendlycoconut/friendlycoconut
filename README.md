@@ -45,7 +45,7 @@ I am passionate about software development and dedicated to continuously expandi
 
 ### My Skill Set  
 <div align="center">
-    <table cellspacing="20">
+    <table cellspacing="19">
         <tr>
             <td valign="top">
                 <h3 align="center">Frontend</h3>
@@ -147,14 +147,6 @@ I am passionate about software development and dedicated to continuously expandi
 
 ### GitHub Stats :
 <table align="center">
-  <tr>
-  <td>
-   <a href="https://github.com/friendlycoconut/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=friendlycoconut&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="friendlycoconut github stats" /></a>
-  </td>
-  <td>
-  <a href="https://github.com/friendlycoconut/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=friendlycoconut&layout=compact&theme=buefy&hide_border=true" /></a>
-  </td>
-  </tr>
   <tr>
   <td colspan=2 align="center">
   <a href="https://git.io/streak-stats"> <img src="http://github-readme-streak-stats.herokuapp.com?user=friendlycoconut&hide_border=true&background=f6f8fa&currStreakLabel=000000&date_format=j%20M%5B%20Y%5D" alt="friendlycoconut GitHub Readme Streak Stats" /> </a>
