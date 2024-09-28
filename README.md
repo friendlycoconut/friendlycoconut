@@ -44,8 +44,8 @@ I am passionate about software development and dedicated to continuously expandi
 </div>
 
 ### My Skill Set  
-<div align="center">
-    <table cellspacing="20" style="width: 50%">
+<div align="center" style="width: 50%">
+    <table>
         <tr>
             <td valign="top">
                 <h3 align="center">Frontend</h3>
@@ -100,7 +100,7 @@ I am passionate about software development and dedicated to continuously expandi
                         <br>NeoVim</td>
                       <td align="center"><a href="https://www.vim.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vim.svg"  height="50" alt="Vim" /></a>
                       <br>Vim</td>
-                      <td align="center"><a href="https://docs.spring.io/spring-framework/docs/3.0.x/reference/expressions.html#:~:text=The%20Spring%20Expression%20Language%20(SpEL,and%20basic%20string%20templating%20functionality." target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="50" /></a>
+                      <td align="center"><a href="https://docs.spring.io/spring-framework/docs/3.0.x/reference/expressions.html#:~:text=The%20Spring%20Expression%20Language%20(SpEL,and%20basic%20string%20templating%20functionality." target="_blank"><img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="50" /></a>
                       <br>Spring</td>
                     </tr>
                 </table>
@@ -113,24 +113,24 @@ I am passionate about software development and dedicated to continuously expandi
                         <br>MariaDB</td>
                         <td align="center"><a href="https://www.mysql.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>
                         <br>MySQL</td>
-                      <td align="center"><a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>
+                      <td align="center"><a href="https://firebase.google.com/" target="_blank"><img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>
                       <br>Firebase</td>
                     </tr>
                     <tr align="center">
                         <td><a href="https://www.postgresql.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>
                         <br>PostgreSQL</td>
-<td align="center"> <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>
+<td align="center"> <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>
 <br>Bash</td>
-<td align="center"><a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>
+<td align="center"><a href="https://www.docker.com/" target="_blank"><img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>
 <br>Docker</td>  
                     </tr>
                     <tr>
                         <td align="center"><a href="https://www.mongodb.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>
                         <br>MongoDB</td>
-                      <td align="center"><a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>
+                      <td align="center"><a href="https://github.com/" target="_blank"><img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>
                       <br>Git</td>
                     <td align="center">
-                    <a href="https://azure.microsoft.com/en-in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="50" /></a>
+                    <a href="https://azure.microsoft.com/en-in/" target="_blank"><img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="50" /></a>
                     <br>Azure</td>
                     </tr>
                 </table>
