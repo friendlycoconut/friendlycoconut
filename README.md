@@ -45,7 +45,7 @@ I am passionate about software development and dedicated to continuously expandi
 
 ### My Skill Set  
 <div align="center">
-    <table cellspacing="15">
+    <table cellspacing="20" style="width: 50%">
         <tr>
             <td valign="top">
                 <h3 align="center">Frontend</h3>
@@ -157,8 +157,6 @@ I am passionate about software development and dedicated to continuously expandi
 
 
 
-<div align="center">
-<a href="https://u8views.com/github/friendlycoconut"><img src="https://u8views.com/api/v1/github/profiles/115661003/views/day-week-month-total-count.svg"></a>
-</div>
+
 
 
