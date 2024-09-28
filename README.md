@@ -45,7 +45,7 @@ I am passionate about software development and dedicated to continuously expandi
 
 ### My Skill Set  
 <div align="center">
-    <table cellspacing="19">
+    <table cellspacing="15">
         <tr>
             <td valign="top">
                 <h3 align="center">Frontend</h3>
