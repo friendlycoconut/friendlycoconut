@@ -143,7 +143,7 @@ I am passionate about software development and dedicated to continuously expandi
 <table align="center">
   <tr>
   <td colspan=2 align="center">
-  <a href="https://git.io/streak-stats"> <img src="http://github-readme-streak-stats.herokuapp.com?user=friendlycoconut&hide_border=true&background=f6f8fa&currStreakLabel=000000&date_format=j%20M%5B%20Y%5D" alt="friendlycoconut GitHub Readme Streak Stats" /> </a>
+    [![GitHub Streak](https://streak-stats.demolab.com/?user=friendlycoconut)](https://git.io/streak-stats)
   </td>
   </tr>
 </table>  
