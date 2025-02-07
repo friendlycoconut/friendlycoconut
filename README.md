@@ -143,7 +143,7 @@ I am passionate about software development and dedicated to continuously expandi
 <table align="center">
   <tr>
   <td colspan=2 align="center">
-    [![GitHub Streak](https://streak-stats.demolab.com/?user=friendlycoconut)](https://git.io/streak-stats)
+    [![GitHub Streak](https://streak-stats.demolab.com/?user=friendlycoconut )](https://git.io/streak-stats)
   </td>
   </tr>
 </table>  
